@@ -1,6 +1,6 @@
 - id: 2
   title: Confession site
-  url: #
+  url: http://3.16.127.164/confession-site/index.php
   github_url: https://github.com/Teamexe/confession-site
   description: This website was made for all the students of NIT Hamirpur to confess about anything or anyone anonymously. The sender of confession would have to wait for the admin to verify the confession. The site also has facebook comment and like feature.
   technologies: [
